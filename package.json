@@ -1,7 +1,7 @@
 {
-  "name": "electron-screenshots",
+  "name": "electron-screenshots-mod",
   "version": "0.5.13",
-  "description": "electron 截图插件",
+  "description": "electron screenshot - mod by kritsada",
   "types": "lib/screenshots.d.ts",
   "main": "lib/screenshots.js",
   "files": [
